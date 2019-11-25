@@ -1,6 +1,12 @@
 # v2ray-sspanel-v3-mod_Uim-plugin
 # 免费版本
-# 使用教程请看wiki
+# 使用教程请看
+一键脚本
+mkdir v2ray-agent  &&  \
+cd v2ray-agent && \
+curl https://raw.githubusercontent.com/wiosk/v2ray-sspanel-v3-mod_Uim-plugin/master/install.sh -o install.sh && \
+chmod +x install.sh && \
+bash install.sh
 ### 收费版 [请点击这里](https://github.com/rico93/pay-v2ray-sspanel-v3-mod_Uim-plugin/)
 ## 公告
 
