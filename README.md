@@ -2,6 +2,7 @@
 # 免费版本
 # 使用教程请看
 一键脚本
+
 mkdir v2ray-agent  &&  \
 cd v2ray-agent && \
 curl https://raw.githubusercontent.com/wiosk/v2ray-sspanel-v3-mod_Uim-plugin/master/install.sh -o install.sh && \
